@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cd85dba-e7fd-4b02-80b1-9471fb16bd4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jeudes_zoo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jeudes_zoo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/meiry/IdeaProjects/Workspace/Jeudes",
+    "last_opened_file_path": "C:/Users/meiry/Java_Projects_Aston/Workspace/ProjetBank",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,6 +75,7 @@
       <updated>1652706697336</updated>
       <workItem from="1652706698616" duration="4989000" />
       <workItem from="1652733695074" duration="2837000" />
+      <workItem from="1653638195892" duration="1709000" />
     </task>
     <task id="LOCAL-00001" summary="exo banque">
       <created>1652793191370</created>
@@ -108,12 +109,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/fr/banque/CompteASeuil.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/fr/banque/CompteASeuil.java</url>
           <line>14</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/fr/banque/CompteASeuil.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/fr/banque/CompteASeuil.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>

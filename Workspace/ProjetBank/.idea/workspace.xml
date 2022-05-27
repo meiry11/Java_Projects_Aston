@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cd85dba-e7fd-4b02-80b1-9471fb16bd4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Jeudes_zoo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jeudes_zoo/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5cd85dba-e7fd-4b02-80b1-9471fb16bd4c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,10 +40,13 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CompteTest.testNumero">
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fr.banque.Run" />
       <module name="ProjetBank" />
@@ -59,8 +60,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CompteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetBank" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompteTest.testNumero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetBank" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompteTest" />
+      <option name="METHOD_NAME" value="testNumero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompteTest.testSolde" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjetBank" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CompteTest" />
+      <option name="METHOD_NAME" value="testSolde" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CompteTest.testNumero" />
+        <item itemvalue="JUnit.CompteTest.testSolde" />
+        <item itemvalue="JUnit.CompteTest" />
         <item itemvalue="Application.Run" />
       </list>
     </recent_temporary>
@@ -75,7 +108,7 @@
       <updated>1652706697336</updated>
       <workItem from="1652706698616" duration="4989000" />
       <workItem from="1652733695074" duration="2837000" />
-      <workItem from="1653638195892" duration="1709000" />
+      <workItem from="1653638195892" duration="4156000" />
     </task>
     <task id="LOCAL-00001" summary="exo banque">
       <created>1652793191370</created>
@@ -120,5 +153,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjetBank$Run.ic" NAME="Run Coverage Results" MODIFIED="1653646108502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fr.banque.*</FILTER>
+    </SUITE>
   </component>
 </project>
